@@ -11,9 +11,9 @@ for(let city of citys){
     console.log(city);
 }
 
-// for(let i=0;i<marks.length;i++){
-//     console.log(marks[i]);
-// }
+for(let i=0;i<marks.length;i++){
+    console.log(marks[i]);
+}
 
 let sum=0;
 let n=marks.length;

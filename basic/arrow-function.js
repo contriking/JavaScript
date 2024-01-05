@@ -146,5 +146,5 @@ const mulx=arrq.reduce((mul,curr)=>{
     return mul*curr;
 });
 
-console.log(`The sum of the arrewq array is ${sumn}`);
-console.log(`The product of the arrewq array is ${mulx}`);
+console.log(`The sum of the arrq array is ${sumn}`);
+console.log(`The product of the arrq array is ${mulx}`);
