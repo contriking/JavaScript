@@ -49,7 +49,7 @@ const profile={
     followers:569,
     following:4,
     realName:"Prashant Sahu",
-    details:"Student with a passion in programming and want to learn many things and take it as a process of learning and growing",
+    details:"Student with a passion in programming and want to learn new things by creating a passion of learning and growing and make new things for development of society and earn money",
 }
 
 console.log(profile);
