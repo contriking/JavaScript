@@ -22,4 +22,4 @@ function calculator(a,b,sumCallback){
 // calculator(1,3,sum);
 calculator(1,2,(a,b)=>{
     console.log(a+b);
-})
+});
